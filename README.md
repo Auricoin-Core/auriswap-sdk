@@ -2,7 +2,7 @@
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
-This modifies uniswap-sdk's UniswapV2Factory address. The new address for LuaSwap is  `0x0388C1E0f210AbAe597B7DE712B9510C6C36C857`.
+This modifies uniswap-sdk's UniswapV2Factory address. The new address for AuriSwap is  `0x42C3bD4FEdC5E8CD4732118a9718a8E469959e79`.
 
 ## Running tests
 
@@ -14,7 +14,7 @@ First clone the repository:
 git clone https://github.com/Auricoin-Core/auriswap-sdk.git
 ```
 
-Move into the luaswap-sdk working directory
+Move into the auriswap-sdk working directory
 
 ```sh
 cd auriswap-sdk/

@@ -25,8 +25,8 @@ export enum Rounding {
   ROUND_UP
 }
 
-// TODO: Need to change to luaswap's factory address
-export const FACTORY_ADDRESS = '0x0388C1E0f210AbAe597B7DE712B9510C6C36C857'
+// TODO: Need to change to auriswap's factory address
+export const FACTORY_ADDRESS = '0x08e0fAFf8bB80eaf8c30A99920355028b5bD6789'
 
 // TODO: Need to change every code smartcontract updated
 export const INIT_CODE_HASH = '0xf176ce2ef2ec9c3333f7ab282e4269fdd75024da47415e2c7c6e04272fc1bfab'
