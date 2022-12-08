@@ -1,11 +1,11 @@
 import { Contract } from '@ethersproject/contracts'
 import { getNetwork } from '@ethersproject/networks'
-import { getDefaultProvider } from '@ethersproject/providers'
+import { getDefaultProvider, Provider } from '@ethersproject/providers'
 import { TokenAmount } from './entities/fractions/tokenAmount'
 import { Pair } from './entities/pair'
 import IUniswapV2Pair from '@uniswap/v2-core/build/IUniswapV2Pair.json'
 import invariant from 'tiny-invariant'
-import ERC20 from './abis/ERC20.json'
+import ERC20 from '/abis/ERC20.json'
 import { ChainId } from './constants'
 import { Token } from './entities/token'
 

@@ -96,7 +96,7 @@ export const WETH = {
   ),
   [ChainId.TOMOCHAIN_MAINNET]: new Token(
     ChainId.TOMOCHAIN_MAINNET,
-    '0xB1f66997A5760428D3a87D68b90BfE0aE64121cC',
+    '0x97d0A020D4401EBB983a02b04f1bEA833bd382e6',
     18,
     'WTOMO',
     'Wrapped TOMO'
